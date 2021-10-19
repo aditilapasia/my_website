@@ -1,7 +1,7 @@
-baseURL: http://example.org/
+baseURL: https://aditilapasia-portfolio-website.netlify.app/
 languageCode: en-us
-title: Portfolio wevsite for Aditi Lapasia
-theme: forty
+title: Portfolio website for Aditi Lapasia
+theme: Forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
